@@ -1,1 +1,7 @@
+# terminal Linux
+Este terminal de Linux nos ofrece una variedad de opciones que nos permitirán realizar una cantidad seleccionada de procesos.
+En la consola de Linux escribiremos el comando ./launcher.sh, el cual nos abrirá el terminal creado.
+Iniciaremos escribiendo el comando -h para que nos presente las opciones que tenemos, entre las cuales encontramos las siguientes.
+#! /bin/bash
 
+![ imagen ] ( https://github.com/JaimeQzd/Linux-terminal/assets/160483273/39feb91a-c428-4592-a399-a4ff6ad894ba )
